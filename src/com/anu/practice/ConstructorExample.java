@@ -24,7 +24,7 @@ public class ConstructorExample {
   public static void main(String[] args) {
 		
 Machine machine1 = new Machine();
-Machine machine2 = new Machine("Krishna");
+Machine machine2 = new Machine("Kk");
 Machine machine3 = new Machine("Nikki",10);
 	}
 
