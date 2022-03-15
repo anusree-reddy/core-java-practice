@@ -1,4 +1,4 @@
-package com.java.practice;
+package com.anu.practice;
 
 public class Variables {
 	public static void main(String[] args) {
